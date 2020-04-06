@@ -1,8 +1,11 @@
 pyttsx3
-speech_recognition
+speechRecognition
 datetime
 wikipedia
 webbrowser
 smtplib
 random
 re
+#and for pyttsx3 we need
+PyAudio
+pypiwin32
