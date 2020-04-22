@@ -8,7 +8,7 @@ import smtplib
 import random
 import tkinter as tk
 import re
-from . import commands
+import commands
 
 n=0
 User = ""
